@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup?style=flat-square&color=red" alt="GitHub Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Cloud-To-Cloud-Hybrid-Cloud-Backup?style=flat-square&color=green" alt="License" /></a>
@@ -68,7 +68,7 @@ The table below lists category-defining SaaS and managed enterprise platforms, s
 
 Open-source backup tools provide transparent, auditable, vendor-neutral data protection without recurring per-seat fees or storage egress lock-in. Sorted descending by GitHub stargazers count:
 
-| Project | GitHub Stars | Primary Language | Description | Key Capabilities |
+| Project | GitHub_Stars | Primary Language | Description | Key Capabilities |
 |---------|--------------|------------------|-------------|------------------|
 | **[Rclone](https://github.com/rclone/rclone)** | [![Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | The Swiss army knife of cloud storage sync and migration. Synchronizes files across 70+ cloud providers (S3, B2, Google Cloud, Azure, SFTP, WebDAV). | Multi-cloud replication, bandwidth throttling, server-side copy, crypt backend |
 | **[Restic](https://github.com/restic/restic)** | [![Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers) | Go | Fast, secure, deduplicated backup utility. Operates with client-side cryptography and supports local disk, S3, Backblaze B2, Azure Blob, GCS, and SFTP. | Content-defined chunking deduplication, AES-256 encryption, snapshot versioning |
@@ -112,7 +112,7 @@ Contributions are welcome from backup architects, DevOps practitioners, and open
 
 1. 🍴 Fork the repository.
 2. 🌿 Create a descriptive feature branch (`git checkout -b add-backup-tool`).
-3. 📝 Update `README.md` following the established table structure (link, company size/valuation or GitHub star badge, specific pricing, and factual technical description).
+3. 📝 Update `README.md` following the established table structure (link, company size/valuation or GitHub Stars_Badge, specific pricing, and factual technical description).
 4. 🚀 Submit a pull request with an explanation of why the addition is valuable to cloud and hybrid backup engineers.
 
 ---
